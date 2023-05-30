@@ -1,6 +1,6 @@
-# ict400-question-week1
+# ict400-question-week2
 
-This is question from i-discuss in UITM ufuture.
+This is question from i-Discuss in UITM ufuture.
 
 Topic 1
 
