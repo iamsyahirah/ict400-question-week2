@@ -24,6 +24,6 @@ Topic 1
 
 5.	What is the major different between Transaction Processing System and Management Information System?
 - TPS are operational-level systems at the bottom of the pyramid. Operated directly by front line staff who provide support to management operations. 
-MIS are management-level systems that used by middle managers to help ensure the smooth running of the organisation in the short to medium term.
+- MIS are management-level systems that used by middle managers to help ensure the smooth running of the organisation in the short to medium term.
 
 
